@@ -1,0 +1,6 @@
+[submodule "JavaScriptFullFrontend"]
+	path = JavaScriptFullFrontend
+	url = https://github.com/DevRajivSharma/JavaScriptFullFrontend.git
+[submodule "JavaScriptFullBackend"]
+	path = JavaScriptFullBackend
+	url = https://github.com/DevRajivSharma/JavaScriptFullBackend.git
